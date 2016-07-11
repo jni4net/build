@@ -1,1 +1,1 @@
-# build
+This is repository with Maven plugins requitred to build jni4net
